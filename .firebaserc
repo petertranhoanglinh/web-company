@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "minhminh-kalivisa",
+    "staging": "auth-webixx",
+    "webixx": "auth-webixx"
+  },
+  "targets": {},
+  "etags": {}
+}
