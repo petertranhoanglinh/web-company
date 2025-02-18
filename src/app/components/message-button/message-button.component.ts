@@ -19,10 +19,8 @@ export class MessageButtonComponent {
 
   }
   openZalo() {
-    // Gọi hàm mở Zalo
-
-    window.open("https://id.zalo.me/account?continue=http://zalo.me/0938594111", "_blank");
-    window.location.href = "zalo://send?phone=0938594111";
+    window.open("https://id.zalo.me/account?continue=http://zalo.me/0914527284", "_blank");
+    window.location.href = "zalo://send?phone=0914527284";
 }
   openFacebook(){
     window.open("https://www.facebook.com/profile.php?id=61564381650981", "_blank");
